@@ -1,0 +1,327 @@
+taxon,Order,Family,genus,clade,IUCN,TFTSG,Threat,Threat_Code,EDGE_scores,edge_species
+acanthochelys_macrocephala,Testudines,Chelidae,Acanthochelys,Acanthochelys_clade,Near Threatened,,Near Threatened,NT,2.898738023,
+acanthochelys_pallidipectoris,Testudines,Chelidae,Acanthochelys,Acanthochelys_clade,Endangered,,Endangered,EN,3.410452437,EDGE species
+acanthochelys_radiolata,Testudines,Chelidae,Acanthochelys,Acanthochelys_clade,Near Threatened,,Near Threatened,NT,2.952975297,
+acanthochelys_spixii,Testudines,Chelidae,Acanthochelys,Acanthochelys_clade,Near Threatened,,Near Threatened,NT,2.898738023,
+actinemys_marmorata,Testudines,Emydidae,Actinemys,Actinemys_clade,Vulnerable,,Vulnerable,VU,2.496960998,
+actinemys_pallida,Testudines,Emydidae,Actinemys,Actinemys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.496960998,
+aldabrachelys_gigantea,Testudines,Testudinidae,Aldabrachelys,Aldabrachelys_clade,Vulnerable,,Vulnerable,VU,2.704712719,
+amyda_cartilaginea,Testudines,Trionychidae,Amyda,Amyda_clade,Vulnerable,,Vulnerable,VU,3.292744308,EDGE species
+amyda_ornata,Testudines,Trionychidae,Amyda,Amyda_clade,Vulnerable,,Vulnerable,VU,3.292744308,EDGE species
+apalone_ferox,Testudines,Trionychidae,Apalone,Apalone_clade,Least Concern,,Least Concern,LC,3.473314312,EDGE species
+apalone_mutica,Testudines,Trionychidae,Apalone,Apalone_clade,Least Concern,,Least Concern,LC,3.604672684,EDGE species
+apalone_spinifera,Testudines,Trionychidae,Apalone,Apalone_clade,Least Concern,,Least Concern,LC,3.473314312,EDGE species
+astrochelys_radiata,Testudines,Testudinidae,Astrochelys,Astrochelys_clade,Critically Endangered,,Critically Endangered,CR,3.684197011,EDGE species
+astrochelys_yniphora,Testudines,Testudinidae,Astrochelys,Astrochelys_clade,Critically Endangered,,Critically Endangered,CR,3.684197011,EDGE species
+batagur_affinis,Testudines,Geoemydidae,Batagur,Batagur_clade,Critically Endangered,,Critically Endangered,CR,3.294775012,EDGE species
+batagur_baska,Testudines,Geoemydidae,Batagur,Batagur_clade,Critically Endangered,,Critically Endangered,CR,3.327810613,EDGE species
+batagur_borneoensis,Testudines,Geoemydidae,Batagur,Batagur_clade,Critically Endangered,,Critically Endangered,CR,3.384957141,EDGE species
+batagur_dhongoka,Testudines,Geoemydidae,Batagur,Batagur_clade,Critically Endangered,,Critically Endangered,CR,3.417596378,EDGE species
+batagur_kachuga,Testudines,Geoemydidae,Batagur,Batagur_clade,Critically Endangered,,Critically Endangered,CR,3.327810613,EDGE species
+batagur_trivittata,Testudines,Geoemydidae,Batagur,Batagur_clade,Critically Endangered,,Critically Endangered,CR,3.294775012,EDGE species
+caretta_caretta,Testudines,Cheloniidae,Caretta,Caretta_clade,Vulnerable,,Vulnerable,VU,3.7874204,EDGE species
+carettochelys_insculpta,Testudines,Carettochelyidae,Carettochelys,Carettochelys_clade,Endangered,,Endangered,EN,5.483481129,EDGE species
+centrochelys_sulcata,Testudines,Testudinidae,Centrochelys,Centrochelys_clade,Endangered,,Endangered,EN,3.673849975,EDGE species
+chelodina_burrungandjii,Testudines,Chelidae,Chelodina,Chelodina_clade,Not Evaluated,Least Concern,Least Concern,LC,2.712728959,
+chelodina_canni,Testudines,Chelidae,Chelodina,Chelodina_clade,Not Evaluated,Near Threatened,Near Threatened,NT,2.468143143,
+chelodina_colliei,Testudines,Chelidae,Chelodina,Chelodina_colliei_clade,Not Evaluated,Near Threatened,Near Threatened,NT,3.303817111,EDGE species
+chelodina_expansa,Testudines,Chelidae,Chelodina,Chelodina_clade,Not Evaluated,Near Threatened,Near Threatened,NT,2.699265582,
+chelodina_longicollis,Testudines,Chelidae,Chelodina,Chelodina_clade,Not Evaluated,Least Concern,Least Concern,LC,2.662735169,
+chelodina_mccordi,Testudines,Chelidae,Chelodina,Chelodina_clade,Critically Endangered,,Critically Endangered,CR,3.177974188,EDGE species
+chelodina_novaeguineae,Testudines,Chelidae,Chelodina,Chelodina_clade,Least Concern,,Least Concern,LC,2.38195152,
+chelodina_oblonga,Testudines,Chelidae,chelodina,chelodina_clade,Near Threatened,,Near Threatened,NT,2.699265582,
+chelodina_parkeri,Testudines,Chelidae,Chelodina,Chelodina_clade,Near Threatened,,Near Threatened,NT,2.895179696,
+chelodina_pritchardi,Testudines,Chelidae,Chelodina,Chelodina_clade,Vulnerable,,Vulnerable,VU,2.50330112,
+chelodina_reimanni,Testudines,Chelidae,Chelodina,Chelodina_clade,Near Threatened,,Near Threatened,NT,2.440917873,
+chelodina_steindachneri,Testudines,Chelidae,Chelodina,Chelodina_clade,Not Evaluated,Least Concern,Least Concern,LC,2.745589846,
+chelodina_walloyarrina,Testudines,Chelidae,Chelodina,Chelodina_clade,Not Evaluated,Least Concern,Least Concern,LC,2.695091615,
+chelonia_mydas,Testudines,Cheloniidae,Chelonia,Chelonia_clade,Endangered,,Endangered,EN,4.417609919,EDGE species
+chelonoidis_becki,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Vulnerable,,Vulnerable,VU,1.638265121,
+chelonoidis_carbonaria,Testudines,Testudinidae,Chelonoidis,Chelonoidis_clade,Not Evaluated,Vulnerable,Vulnerable,VU,3.067165428,EDGE species
+chelonoidis_chathamensis,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Endangered,,Endangered,EN,2.065009734,
+chelonoidis_chilensis,Testudines,Testudinidae,Chelonoidis,Chelonoidis_Chilensis_clade,Vulnerable,,Vulnerable,VU,2.980037333,
+chelonoidis_darwini,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Critically Endangered,,Critically Endangered,CR,2.222561026,
+chelonoidis_denticulata,Testudines,Testudinidae,Chelonoidis,Chelonoidis_clade,Vulnerable,,Vulnerable,VU,3.067165428,EDGE species
+chelonoidis_donfaustoi,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Critically Endangered,,Critically Endangered,CR,2.211461304,
+chelonoidis_duncanensis,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Vulnerable,,Vulnerable,VU,1.702384504,
+chelonoidis_guntheri,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Critically Endangered,,Critically Endangered,CR,2.343554722,
+chelonoidis_hoodensis,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Critically Endangered,,Critically Endangered,CR,2.225938299,
+chelonoidis_microphyes,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Endangered,,Endangered,EN,1.997892877,
+chelonoidis_phantastica,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Critically Endangered,,Critically Endangered,CR,2.32552382,
+chelonoidis_porteri,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Critically Endangered,,Critically Endangered,CR,2.340272405,
+chelonoidis_vandenburghi,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Vulnerable,,Vulnerable,VU,1.720415407,
+chelonoidis_vicina,Testudines,Testudinidae,Chelonoidis,Chelonoidis_niger_complex_clade,Endangered,,Endangered,EN,1.983415882,
+chelus_fimbriatus,Testudines,Chelidae,Chelus,Chelus_clade,Not Evaluated,Least Concern,Least Concern,LC,3.157753957,EDGE species
+chelydra_acutirostris,Testudines,Chelydridae,Chelydra,Chelydra_clade,Not Evaluated,Near Threatened,Near Threatened,NT,3.334674277,EDGE species
+chelydra_rossignonii,Testudines,Chelydridae,Chelydra,Chelydra_clade,Vulnerable,,Vulnerable,VU,3.397057523,EDGE species
+chelydra_serpentina,Testudines,Chelydridae,Chelydra,Chelydra_clade,Least Concern,,Least Concern,LC,3.368651845,EDGE species
+chersina_angulata,Testudines,Testudinidae,Chersina,Chersina_clade,Least Concern,,Least Concern,LC,3.167395329,EDGE species
+chitra_chitra,Testudines,Trionychidae,Chitra,Chitra_clade,Critically Endangered,,Critically Endangered,CR,3.864859678,EDGE species
+chitra_indica,Testudines,Trionychidae,Chitra,Chitra_clade,Endangered,,Endangered,EN,3.687547582,EDGE species
+chitra_vandijki,Testudines,Trionychidae,Chitra,Chitra_clade,Critically Endangered,,Critically Endangered,CR,3.864859678,EDGE species
+chrysemys_dorsalis,Testudines,Emydidae,Chrysemys,Chrysemys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.860943514,
+chrysemys_picta,Testudines,Emydidae,Chrysemys,Chrysemys_clade,Least Concern,,Least Concern,LC,2.860943514,
+claudius_angustatus,Testudines,Kinosternidae,Claudius,Claudius_clade,Near Threatened,,Near Threatened,NT,3.55801701,EDGE species
+clemmys_guttata,Testudines,Emydidae,Clemmys,Clemmys_clade,Endangered,,Endangered,EN,2.896778478,
+cuora_amboinensis,Testudines,Geoemydidae,Cuora,Cuora_clade,Endangered,,Endangered,EN,2.975035879,
+cuora_aurocapitata,Testudines,Geoemydidae,Cuora,Cuora_clade,Critically Endangered,,Critically Endangered,CR,3.109015752,EDGE species
+cuora_bourreti,Testudines,Geoemydidae,Cuora,Cuora_clade,Critically Endangered,,Critically Endangered,CR,3.353126788,EDGE species
+cuora_cyclornata,Testudines,Geoemydidae,Cuora,Cuora_tri_clade,Critically Endangered,,Critically Endangered,CR,3.203081301,EDGE species
+cuora_flavomarginata,Testudines,Geoemydidae,Cuora,Cuora_clade,Endangered,,Endangered,EN,3.349356005,EDGE species
+cuora_galbinifrons,Testudines,Geoemydidae,Cuora,Cuora_clade,Critically Endangered,,Critically Endangered,CR,3.284263352,EDGE species
+cuora_mccordi,Testudines,Geoemydidae,Cuora,Cuora_tri_clade,Critically Endangered,,Critically Endangered,CR,3.171864757,EDGE species
+cuora_mouhotii,Testudines,Geoemydidae,Cuora,Cuora_clade,Endangered,,Endangered,EN,3.627182192,EDGE species
+cuora_pani,Testudines,Geoemydidae,Cuora,Cuora_clade,Critically Endangered,,Critically Endangered,CR,3.109015752,EDGE species
+cuora_picturata,Testudines,Geoemydidae,Cuora,Cuora_clade,Critically Endangered,,Critically Endangered,CR,3.284263352,EDGE species
+cuora_trifasciata,Testudines,Geoemydidae,Cuora,Cuora_tri_clade,Critically Endangered,,Critically Endangered,CR,3.171864757,EDGE species
+cuora_yunnanensis,Testudines,Geoemydidae,Cuora,Cuora_clade,Critically Endangered,,Critically Endangered,CR,3.54219004,EDGE species
+cuora_zhoui,Testudines,Geoemydidae,Cuora,Cuora_clade,Critically Endangered,,Critically Endangered,CR,3.54219004,EDGE species
+cyclanorbis_elegans,Testudines,Trionychidae,cyclanorbis,cyclanorbis_clade,Critically Endangered,,Critically Endangered,CR,4.273565141,EDGE species
+cyclanorbis_senegalensis,Testudines,Trionychidae,Cyclanorbis,Cyclanorbis_clade,Vulnerable,,Vulnerable,VU,3.650425826,EDGE species
+cyclemys_atripons,Testudines,Geoemydidae,Cyclemys,Cyclemys_clade,Endangered,,Endangered,EN,2.959572809,
+cyclemys_dentata,Testudines,Geoemydidae,Cyclemys,Cyclemys_indonesia_clade,Near Threatened,,Near Threatened,NT,2.580564328,
+cyclemys_enigmatica,Testudines,Geoemydidae,Cyclemys,Cyclemys_indonesia_clade,Near Threatened,,Near Threatened,NT,2.489724204,
+cyclemys_fusca,Testudines,Geoemydidae,Cyclemys,Cyclemys_clade,Least Concern,,Least Concern,LC,2.508513495,
+cyclemys_gemeli,Testudines,Geoemydidae,cyclemys,cyclemys_clade,Near Threatened,,Near Threatened,NT,2.580564328,
+cyclemys_oldhami,Testudines,Geoemydidae,Cyclemys,Cyclemys_clade,Not Evaluated,Endangered,Endangered,EN,2.904871464,
+cyclemys_pulchristriata,Testudines,Geoemydidae,Cyclemys,Cyclemys_clade,Endangered,,Endangered,EN,2.947201343,
+cycloderma_aubryi,Testudines,Trionychidae,Cycloderma,Cycloderma_clade,Vulnerable,,Vulnerable,VU,3.660071555,EDGE species
+cycloderma_frenatum,Testudines,Trionychidae,Cycloderma,Cycloderma_clade,Endangered,,Endangered,EN,4.055165448,EDGE species
+deirochelys_reticularia,Testudines,Emydidae,Deirochelys,Deirochelys_clade,Not Evaluated,Near Threatened,Near Threatened,NT,3.176833811,EDGE species
+dermatemys_mawii,Testudines,Dermatemydidae,Dermatemys,Dermatemys_clade,Critically Endangered,,Critically Endangered,CR,5.099765415,EDGE species
+dermochelys_coriacea,Testudines,Dermochelyidae,Dermochelys,Dermochelys_clade,Vulnerable,,Vulnerable,VU,4.36282971,EDGE species
+dogania_subplana,Testudines,Trionychidae,Dogania,Dogania_clade,Least Concern,,Least Concern,LC,3.582811774,EDGE species
+elseya_albagula,Testudines,Chelidae,Elseya,Elseya_pelocomastes_clade,Not Evaluated,Endangered,Endangered,EN,3.4412853,EDGE species
+elseya_branderhorsti,Testudines,Chelidae,Elseya,Elseya_elseya_clade,Vulnerable,,Vulnerable,VU,2.569690513,
+elseya_dentata,Testudines,Chelidae,Elseya,Elseya_elseya_clade,Not Evaluated,Least Concern,Least Concern,LC,2.501068942,
+elseya_flaviventralis,Testudines,Chelidae,Elseya,Elseya_elseya_clade,Not Evaluated,Least Concern,Least Concern,LC,2.445597207,
+elseya_irwini,Testudines,Chelidae,Elseya,Elseya_pelocomastes_clade,Not Evaluated,Near Threatened,Near Threatened,NT,2.84846017,
+elseya_novaeguineae,Testudines,Chelidae,Elseya,Elseya_Hanwarachelys_clade,Least Concern,,Least Concern,LC,2.540495407,
+elseya_rhodini,Testudines,Chelidae,Elseya,Elseya_Hanwarachelys_clade,Least Concern,,Least Concern,LC,2.654698412,
+elseya_schultzei,Testudines,Chelidae,Elseya,Elseya_Hanwarachelys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.540495407,
+elusor_macrurus,Testudines,Chelidae,Elusor,Elusor_clade,Endangered,,Endangered,EN,3.674070072,EDGE species
+emydura_macquarii,Testudines,Chelidae,Emydura,Emydura_clade,Not Evaluated,Least Concern,Least Concern,LC,2.880259456,
+emydura_subglobosa,Testudines,Chelidae,Emydura,Emydura_clade,Not Evaluated,Least Concern,Least Concern,LC,2.716002997,
+emydura_tanybaraga,Testudines,Chelidae,Emydura,Emydura_clade,Not Evaluated,Least Concern,Least Concern,LC,2.716002997,
+emydura_victoriae,Testudines,Chelidae,Emydura,Emydura_clade,Not Evaluated,Least Concern,Least Concern,LC,2.754066555,
+emys_blandingii,Testudines,Emydidae,Emys,Emys_clade,Endangered,,Endangered,EN,3.294505701,EDGE species
+emys_marmorata,Testudines,Emydidae,Emys,Emys_clade,Vulnerable,,Vulnerable,VU,2.822826373,
+emys_orbicularis,Testudines,Emydidae,Emys,Emys_clade,Near Threatened,,Near Threatened,NT,2.615625844,
+emys_pallida,Testudines,Emydidae,Emys,Emys_clade,Vulnerable,,Vulnerable,VU,2.822826373,
+eretmochelys_imbricata,Testudines,Cheloniidae,Eretmochelys,Eretmochelys_clade,Critically Endangered,,Critically Endangered,CR,4.445774317,EDGE species
+erymnochelys_madagascariensis,Testudines,Podocnemididae,Erymnochelys,Erymnochelys_clade,Critically Endangered,,Critically Endangered,CR,5.17812007,EDGE species
+geochelone_elegans,Testudines,Testudinidae,Geochelone,Geochelone_clade,Vulnerable,,Vulnerable,VU,2.95808061,
+geochelone_platynota,Testudines,Testudinidae,Geochelone,Geochelone_clade,Critically Endangered,,Critically Endangered,CR,3.581219925,EDGE species
+geoclemys_hamiltonii,Testudines,Geoemydidae,Geoclemys,Geoclemys_clade,Endangered,,Endangered,EN,3.997879148,EDGE species
+geoemyda_japonica,Testudines,Geoemydidae,Geoemyda,Geoemyda_clade,Endangered,,Endangered,EN,3.935728077,EDGE species
+geoemyda_spengleri,Testudines,Geoemydidae,Geoemyda,Geoemyda_clade,Endangered,,Endangered,EN,3.935728077,EDGE species
+glyptemys_insculpta,Testudines,Emydidae,Glyptemys,Glyptemys_clade,Endangered,,Endangered,EN,3.411632304,EDGE species
+glyptemys_muhlenbergii,Testudines,Emydidae,Glyptemys,Glyptemys_clade,Critically Endangered,,Critically Endangered,CR,3.639677726,EDGE species
+gopherus_agassizii,Testudines,Testudinidae,Gopherus,Gopherus_clade,Critically Endangered,,Critically Endangered,CR,3.487707522,EDGE species
+gopherus_berlandieri,Testudines,Testudinidae,Gopherus,Gopherus_clade,Least Concern,,Least Concern,LC,2.712235953,
+gopherus_evgoodei,Testudines,Testudinidae,Gopherus,Gopherus_morafkai_clade,Vulnerable,,Vulnerable,VU,2.780857524,
+gopherus_flavomarginatus,Testudines,Testudinidae,Gopherus,Gopherus_clade,Critically Endangered,,Critically Endangered,CR,3.726193092,EDGE species
+gopherus_morafkai,Testudines,Testudinidae,Gopherus,Gopherus_morafkai_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.762871835,
+gopherus_polyphemus,Testudines,Testudinidae,Gopherus,Gopherus_clade,Vulnerable,,Vulnerable,VU,3.103053777,EDGE species
+graptemys_barbouri,Testudines,Emydidae,Graptemys,Graptemys_clade,Vulnerable,,Vulnerable,VU,2.558597254,
+graptemys_caglei,Testudines,Emydidae,Graptemys,Graptemys_clade,Endangered,,Endangered,EN,2.601256432,
+graptemys_ernsti,Testudines,Emydidae,Graptemys,Graptemys_clade,Near Threatened,,Near Threatened,NT,1.879823428,
+graptemys_flavimaculata,Testudines,Emydidae,Graptemys,Graptemys_clade,Vulnerable,,Vulnerable,VU,1.93311193,
+graptemys_geographica,Testudines,Emydidae,Graptemys,Graptemys_clade,Least Concern,,Least Concern,LC,2.718253806,
+graptemys_gibbonsi,Testudines,Emydidae,Graptemys,Graptemys_clade,Endangered,,Endangered,EN,2.313460045,
+graptemys_nigrinoda,Testudines,Emydidae,Graptemys,Graptemys_clade,Least Concern,,Least Concern,LC,2.18719821,
+graptemys_oculifera,Testudines,Emydidae,Graptemys,Graptemys_clade,Vulnerable,,Vulnerable,VU,1.93311193,
+graptemys_ouachitensis,Testudines,Emydidae,Graptemys,Graptemys_ouachitensis_clade,Least Concern,,Least Concern,LC,2.137540968,
+graptemys_pearlensis,Testudines,Emydidae,Graptemys,Graptemys_clade,Endangered,,Endangered,EN,2.540731774,
+graptemys_pseudogeographica,Testudines,Emydidae,Graptemys,Graptemys_clade,Least Concern,,Least Concern,LC,2.422054747,
+graptemys_pulchra,Testudines,Emydidae,Graptemys,Graptemys_clade,Near Threatened,,Near Threatened,NT,2.138543984,
+graptemys_sabinensis,Testudines,Emydidae,Graptemys,Graptemys_ouachitensis_clade,Not Evaluated,Least Concern,Least Concern,LC,1.849744581,
+graptemys_versa,Testudines,Emydidae,Graptemys,Graptemys_clade,Least Concern,,Least Concern,LC,2.18719821,
+hardella_thurjii,Testudines,Geoemydidae,Hardella,Hardella_clade,Endangered,,Endangered,EN,3.387838484,EDGE species
+heosemys_annandalii,Testudines,Geoemydidae,Heosemys,Heosemys_clade,Critically Endangered,,Critically Endangered,CR,3.640625997,EDGE species
+heosemys_depressa,Testudines,Geoemydidae,Heosemys,Heosemys_clade,Critically Endangered,,Critically Endangered,CR,3.770259202,EDGE species
+heosemys_grandis,Testudines,Geoemydidae,Heosemys,Heosemys_clade,Critically Endangered,,Critically Endangered,CR,3.640625997,EDGE species
+heosemys_spinosa,Testudines,Geoemydidae,Heosemys,Heosemys_clade,Endangered,,Endangered,EN,3.807500168,EDGE species
+hydromedusa_maximiliani,Testudines,Chelidae,Hydromedusa,Hydromedusa_clade,Vulnerable,,Vulnerable,VU,3.507420854,EDGE species
+hydromedusa_tectifera,Testudines,Chelidae,Hydromedusa,Hydromedusa_clade,Not Evaluated,Least Concern,Least Concern,LC,3.438799283,EDGE species
+indotestudo_elongata,Testudines,Testudinidae,Indotestudo,Indotestudo_clade,Critically Endangered,,Critically Endangered,CR,3.691541772,EDGE species
+indotestudo_forstenii,Testudines,Testudinidae,Indotestudo,Indotestudo_clade,Critically Endangered,,Critically Endangered,CR,3.875908608,EDGE species
+indotestudo_travancorica,Testudines,Testudinidae,Indotestudo,Indotestudo_clade,Vulnerable,,Vulnerable,VU,3.068402456,EDGE species
+kinixys_belliana,Testudines,Testudinidae,Kinixys,Kinixys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.458892406,
+kinixys_erosa,Testudines,Testudinidae,Kinixys,Kinixys_clade,Data Deficient,Endangered,Endangered,EN,2.929129835,
+kinixys_homeana,Testudines,Testudinidae,Kinixys,Kinixys_clade,Critically Endangered,,Critically Endangered,CR,3.02381316,
+kinixys_lobatsiana,Testudines,Testudinidae,Kinixys,Kinixys_clade,Vulnerable,,Vulnerable,VU,2.270273586,
+kinixys_natalensis,Testudines,Testudinidae,Kinixys,Kinixys_clade,Vulnerable,,Vulnerable,VU,2.789159266,
+kinixys_nogueyi,Testudines,Testudinidae,Kinixys,Kinixys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.270273586,
+kinixys_speckii,Testudines,Testudinidae,Kinixys,Kinixys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.458892406,
+kinixys_zombensis,Testudines,Testudinidae,Kinixys,Kinixys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.738377178,
+kinosternon_abaxillare,Testudines,Kinosternidae,Kinosternon,Kinosternon_scorpoides_clade,Vulnerable,,Vulnerable,VU,2.473757863,
+kinosternon_alamosae,Testudines,Kinosternidae,Kinosternon,Kinosternon_sonora_clade,Data Deficient,Least Concern,Least Concern,LC,2.360382992,
+kinosternon_angustipons,Testudines,Kinosternidae,Kinosternon,Kinosternon_crypto_clade,Vulnerable,,Vulnerable,VU,2.451701519,
+kinosternon_arizonense,Testudines,Kinosternidae,Kinosternon,Kinosternon_clade,Least Concern,,Least Concern,LC,2.711822005,
+kinosternon_baurii,Testudines,Kinosternidae,Kinosternon,Kinosternon_clade,Least Concern,,Least Concern,LC,2.750980885,
+kinosternon_chimalhuaca,Testudines,Kinosternidae,Kinosternon,Kinosternon_clade,Least Concern,,Least Concern,LC,2.683683642,
+kinosternon_creaseri,Testudines,Kinosternidae,Kinosternon,Kinosternon_crypto_clade,Least Concern,,Least Concern,LC,2.41286188,
+kinosternon_dunni,Testudines,Kinosternidae,Kinosternon,Kinosternon_crypto_clade,Vulnerable,,Vulnerable,VU,3.064453099,EDGE species
+kinosternon_durangoense,Testudines,Kinosternidae,Kinosternon,Kinosternon_clade,Data Deficient,Least Concern,Least Concern,LC,2.806962044,
+kinosternon_flavescens,Testudines,Kinosternidae,Kinosternon,Kinosternon_clade,Least Concern,,Least Concern,LC,2.994042285,
+kinosternon_herrerai,Testudines,Kinosternidae,Kinosternon,Kinosternon_crypto_clade,Near Threatened,,Near Threatened,NT,2.828915925,
+kinosternon_hirtipes,Testudines,Kinosternidae,Kinosternon,Kinosternon_sonora_clade,Least Concern,,Least Concern,LC,2.405136292,
+kinosternon_integrum,Testudines,Kinosternidae,Kinosternon,Kinosternon_scorpoides_clade,Least Concern,,Least Concern,LC,2.53547319,
+kinosternon_leucostomum,Testudines,Kinosternidae,Kinosternon,Kinosternon_crypto_clade,Not Evaluated,Least Concern,Least Concern,LC,2.995831528,
+kinosternon_oaxacae,Testudines,Kinosternidae,Kinosternon,Kinosternon_sonora_clade,Data Deficient,Least Concern,Least Concern,LC,2.360382992,
+kinosternon_scorpioides,Testudines,Kinosternidae,Kinosternon,Kinosternon_scorpoides_clade,Not Evaluated,Least Concern,Least Concern,LC,2.53547319,
+kinosternon_sonoriense,Testudines,Kinosternidae,Kinosternon,Kinosternon_sonora_clade,Near Threatened,,Near Threatened,NT,2.485915915,
+kinosternon_steindachneri,Testudines,Kinosternidae,Kinosternon,Kinosternon_clade,Not Evaluated,Least Concern,Least Concern,LC,2.750980885,
+kinosternon_stejnegeri,Testudines,Kinosternidae,Kinosternon,Kinosternon_clade,Least Concern,,Least Concern,LC,2.711822005,
+kinosternon_subrubrum,Testudines,Kinosternidae,Kinosternon,Kinosternon_clade,Least Concern,,Least Concern,LC,2.855722807,
+lepidochelys_olivacea,Testudines,Cheloniidae,Lepidochelys,Lepidochelys_clade,Vulnerable,,Vulnerable,VU,3.7874204,EDGE species
+leucocephalon_yuwonoi,Testudines,Geoemydidae,Leucocephalon,Leucocephalon_clade,Critically Endangered,,Critically Endangered,CR,4.217156923,EDGE species
+lissemys_ceylonensis,Testudines,Trionychidae,Lissemys,Lissemys_clade,Vulnerable,,Vulnerable,VU,3.368698512,EDGE species
+lissemys_punctata,Testudines,Trionychidae,Lissemys,Lissemys_clade,Vulnerable,,Vulnerable,VU,3.368698512,EDGE species
+lissemys_scutata,Testudines,Trionychidae,Lissemys,Lissemys_clade,Least Concern,,Least Concern,LC,3.445347675,EDGE species
+macrochelys_suwanniensis,Testudines,Chelydridae,Macrochelys,Macrochelys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,3.492404598,EDGE species
+macrochelys_temminckii,Testudines,Chelydridae,Macrochelys,Macrochelys_clade,Vulnerable,,Vulnerable,VU,3.492404598,EDGE species
+malaclemys_terrapin,Testudines,Emydidae,Malaclemys,Malaclemys_clade,Vulnerable,,Vulnerable,VU,3.189123924,EDGE species
+malacochersus_tornieri,Testudines,Testudinidae,Malacochersus,Malacochersus_clade,Critically Endangered,,Critically Endangered,CR,4.144927329,EDGE species
+malayemys_khoratensis,Testudines,Geoemydidae,Malayemys,Malayemys_clade,Least Concern,,Least Concern,LC,2.835595183,
+malayemys_macrocephala,Testudines,Geoemydidae,Malayemys,Malayemys_clade,Least Concern,,Least Concern,LC,2.835595183,
+malayemys_subtrijuga,Testudines,Geoemydidae,Malayemys,Malayemys_clade,Near Threatened,,Near Threatened,NT,3.140139491,EDGE species
+manouria_emys,Testudines,Testudinidae,Manouria,Manouria_clade,Critically Endangered,,Critically Endangered,CR,4.339635562,EDGE species
+manouria_impressa,Testudines,Testudinidae,Manouria,Manouria_clade,Endangered,,Endangered,EN,4.11159014,EDGE species
+mauremys_annamensis,Testudines,Geoemydidae,Mauremys,Mauremys_clade,Critically Endangered,,Critically Endangered,CR,4.088337173,EDGE species
+mauremys_caspica,Testudines,Geoemydidae,Mauremys,Mauremys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.664536235,
+mauremys_japonica,Testudines,Geoemydidae,Mauremys,Mauremys_clade,Near Threatened,,Near Threatened,NT,3.007611131,
+mauremys_leprosa,Testudines,Geoemydidae,Mauremys,Mauremys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.931033438,
+mauremys_mutica,Testudines,Geoemydidae,Mauremys,Mauremys_clade,Critically Endangered,,Critically Endangered,CR,4.088337173,EDGE species
+mauremys_nigricans,Testudines,Geoemydidae,Mauremys,Mauremys_clade,Endangered,,Endangered,EN,3.310367059,EDGE species
+mauremys_reevesii,Testudines,Geoemydidae,Mauremys,Mauremys_clade,Endangered,,Endangered,EN,3.310367059,EDGE species
+mauremys_rivulata,Testudines,Geoemydidae,Mauremys,Mauremys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.664536235,
+mauremys_sinensis,Testudines,Geoemydidae,Mauremys,Mauremys_clade,Critically Endangered,,Critically Endangered,CR,3.991792412,EDGE species
+melanochelys_tricarinata,Testudines,Geoemydidae,Melanochelys,Melanochelys_clade,Endangered,,Endangered,EN,3.397122679,EDGE species
+melanochelys_trijuga,Testudines,Geoemydidae,Melanochelys,Melanochelys_clade,Least Concern,,Least Concern,LC,2.933407215,
+mesoclemmys_dahli,Testudines,Chelidae,Mesoclemmys,Mesoclemmys_clade,Critically Endangered,,Critically Endangered,CR,3.585996782,EDGE species
+mesoclemmys_gibbus,Testudines,Chelidae,Mesoclemmys,Mesoclemmys_clade,Not Evaluated,Least Concern,Least Concern,LC,3.053811308,EDGE species
+mesoclemmys_hogei,Testudines,Chelidae,Mesoclemmys,Mesoclemmys_clade,Critically Endangered,,Critically Endangered,CR,4.333011449,EDGE species
+mesoclemmys_perplexa,Testudines,Chelidae,Mesoclemmys,Mesoclemmys_clade,Not Evaluated,Least Concern,Least Concern,LC,3.423720428,EDGE species
+mesoclemmys_raniceps,Testudines,Chelidae,Mesoclemmys,Mesoclemmys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.782782701,
+mesoclemmys_tuberculata,Testudines,Chelidae,Mesoclemmys,Mesoclemmys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.782782701,
+mesoclemmys_vanderhaegei,Testudines,Chelidae,Mesoclemmys,Mesoclemmys_clade,Near Threatened,,Near Threatened,NT,2.67748824,
+mesoclemmys_zuliae,Testudines,Chelidae,Mesoclemmys,Mesoclemmys_clade,Vulnerable,,Vulnerable,VU,2.75439332,
+morenia_ocellata,Testudines,Geoemydidae,Morenia,Morenia_clade,Endangered,,Endangered,EN,3.566857038,EDGE species
+morenia_petersi,Testudines,Geoemydidae,Morenia,Morenia_clade,Endangered,,Endangered,EN,3.566857038,EDGE species
+myuchelys_bellii,Testudines,Chelidae,Myuchelys,Myuchelys_clade,Endangered,,Endangered,EN,3.482551606,EDGE species
+myuchelys_georgesi,Testudines,Chelidae,Myuchelys,Myuchelys_clade,Data Deficient,Critically Endangered,Critically Endangered,CR,3.689128516,EDGE species
+myuchelys_latisternum,Testudines,Chelidae,Myuchelys,Myuchelys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.99736763,
+myuchelys_purvisi,Testudines,Chelidae,Myuchelys,Myuchelys_clade,Data Deficient,Near Threatened,Near Threatened,NT,3.129922393,EDGE species
+nilssonia_formosa,Testudines,Trionychidae,Nilssonia,Nilssonia_clade,Critically Endangered,,Critically Endangered,CR,3.732046311,EDGE species
+nilssonia_gangetica,Testudines,Trionychidae,Nilssonia,Nilssonia_clade,Endangered,,Endangered,EN,3.560140707,EDGE species
+nilssonia_hurum,Testudines,Trionychidae,Nilssonia,Nilssonia_clade,Endangered,,Endangered,EN,3.313388923,EDGE species
+nilssonia_leithii,Testudines,Trionychidae,Nilssonia,Nilssonia_clade,Critically Endangered,,Critically Endangered,CR,3.651706151,EDGE species
+nilssonia_nigricans,Testudines,Trionychidae,Nilssonia,Nilssonia_clade,Critically Endangered,,Critically Endangered,CR,3.541434345,EDGE species
+notochelys_platynota,Testudines,Geoemydidae,Notochelys,Notochelys_clade,Vulnerable,,Vulnerable,VU,3.594017607,EDGE species
+orlitia_borneensis,Testudines,Geoemydidae,Orlitia,Orlitia_clade,Critically Endangered,,Critically Endangered,CR,4.030108105,EDGE species
+palea_steindachneri,Testudines,Trionychidae,Palea,Palea_clade,Critically Endangered,,Critically Endangered,CR,4.463293758,EDGE species
+pangshura_smithii,Testudines,Geoemydidae,Pangshura,Pangshura_clade,Near Threatened,,Near Threatened,NT,2.529510059,
+pangshura_sylhetensis,Testudines,Geoemydidae,Pangshura,Pangshura_clade,Critically Endangered,,Critically Endangered,CR,3.481488605,EDGE species
+pangshura_tecta,Testudines,Geoemydidae,Pangshura,Pangshura_clade,Vulnerable,,Vulnerable,VU,2.744377931,
+pangshura_tentoria,Testudines,Geoemydidae,Pangshura,Pangshura_clade,Least Concern,,Least Concern,LC,2.523271734,
+pelochelys_bibroni,Testudines,Trionychidae,Pelochelys,Pelochelys_clade,Vulnerable,,Vulnerable,VU,3.322691131,EDGE species
+pelochelys_cantorii,Testudines,Trionychidae,Pelochelys,Pelochelys_clade,Critically Endangered,,Critically Endangered,CR,3.945830446,EDGE species
+pelochelys_signifera,Testudines,Trionychidae,Pelochelys,Pelochelys_clade,Vulnerable,,Vulnerable,VU,3.664161619,EDGE species
+pelodiscus_parviformis,Testudines,Trionychidae,Pelochelys,Pelochelys_clade,Not Evaluated,Critically Endangered,Critically Endangered,CR,3.868797492,EDGE species
+pelodiscus_sinensis,Testudines,Trionychidae,Pelodiscus,Pelodiscus_clade,Vulnerable,,Vulnerable,VU,3.119299256,EDGE species
+pelomedusa_barbata,Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_clade,Not Evaluated,Endangered,Endangered,EN,3.657251063,EDGE species
+pelomedusa_galeata,Testudines,Pelomedusidae,Pelomedusa,Pelomedusa_clade,Least Concern,,Least Concern,LC,2.813230116,
+peltocephalus_dumerilianus,Testudines,Podocnemididae,Peltocephalus,Peltocephalus_clade,Vulnerable,,Vulnerable,VU,4.623192719,EDGE species
+pelusios_adansonii,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Not Evaluated,Least Concern,Least Concern,LC,3.217338935,EDGE species
+pelusios_bechuanicus,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Not Evaluated,Least Concern,Least Concern,LC,3.169504965,EDGE species
+pelusios_broadleyi,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Vulnerable,,Vulnerable,VU,3.259046079,EDGE species
+pelusios_carinatus,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Not Evaluated,Least Concern,Least Concern,LC,2.781760097,
+pelusios_castaneus,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Not Evaluated,Least Concern,Least Concern,LC,3.034377493,EDGE species
+pelusios_castanoides,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Least Concern,,Least Concern,LC,2.899844372,
+pelusios_chapini,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Not Evaluated,Least Concern,Least Concern,LC,3.034377493,EDGE species
+pelusios_cupulatta,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Not Evaluated,Least Concern,Least Concern,LC,2.781760097,
+pelusios_gabonensis,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Not Evaluated,Least Concern,Least Concern,LC,3.493874527,EDGE species
+pelusios_niger,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Near Threatened,,Near Threatened,NT,3.53676527,EDGE species
+pelusios_rhodesianus,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Least Concern,,Least Concern,LC,3.028325197,
+pelusios_sinuatus,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Not Evaluated,Least Concern,Least Concern,LC,3.393990372,EDGE species
+pelusios_subniger,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Least Concern,,Least Concern,LC,3.169504965,EDGE species
+pelusios_williamsi,Testudines,Pelomedusidae,Pelusios,Pelusios_clade,Not Evaluated,Least Concern,Least Concern,LC,3.075043062,EDGE species
+phrynops_geoffroanus,Testudines,Chelidae,Phrynops,Phrynops_clade,Not Evaluated,Least Concern,Least Concern,LC,2.729265726,
+phrynops_hilarii,Testudines,Chelidae,Phrynops,Phrynops_clade,Not Evaluated,Least Concern,Least Concern,LC,2.993779982,
+phrynops_tuberosus,Testudines,Chelidae,Phrynops,Phrynops_clade,Not Evaluated,Least Concern,Least Concern,LC,2.729265726,
+phrynops_williamsi,Testudines,Chelidae,Phrynops,Phrynops_clade,Vulnerable,,Vulnerable,VU,2.976462805,
+platemys_platycephala,Testudines,Chelidae,Platemys,Platemys_clade,Not Evaluated,Least Concern,Least Concern,LC,3.500573764,EDGE species
+platysternon_megacephalum,Testudines,Platysternidae,Platysternon,Platysternon_clade,Critically Endangered,,Critically Endangered,CR,5.112381337,EDGE species
+podocnemis_erythrocephala,Testudines,Podocnemididae,Podocnemis,Podocnemis_clade,Vulnerable,,Vulnerable,VU,3.667015448,EDGE species
+podocnemis_lewyana,Testudines,Podocnemididae,Podocnemis,Podocnemis_clade,Critically Endangered,,Critically Endangered,CR,4.266776835,EDGE species
+podocnemis_sextuberculata,Testudines,Podocnemididae,Podocnemis,Podocnemis_clade,Vulnerable,,Vulnerable,VU,3.667015448,EDGE species
+podocnemis_unifilis,Testudines,Podocnemididae,Podocnemis,Podocnemis_clade,Vulnerable,,Vulnerable,VU,3.744950976,EDGE species
+podocnemis_vogli,Testudines,Podocnemididae,Podocnemis,Podocnemis_clade,Not Evaluated,Vulnerable,Vulnerable,VU,4.054159191,EDGE species
+psammobates_geometricus,Testudines,Testudinidae,Psammobates,Psammobates_clade,Critically Endangered,,Critically Endangered,CR,3.643003967,EDGE species
+psammobates_oculifer,Testudines,Testudinidae,Psammobates,Psammobates_clade,Not Evaluated,Least Concern,Least Concern,LC,3.042989864,EDGE species
+psammobates_tentorius,Testudines,Testudinidae,Psammobates,Psammobates_clade,Near Threatened,,Near Threatened,NT,2.957481405,
+pseudemydura_umbrina,Testudines,Chelidae,Pseudemydura,Pseudemydura_clade,Critically Endangered,,Critically Endangered,CR,4.201333911,EDGE species
+pseudemys_alabamensis,Testudines,Emydidae,Pseudemys,Pseudemys_clade,Endangered,,Endangered,EN,2.778384732,
+pseudemys_concinna,Testudines,Emydidae,Pseudemys,Pseudemys_clade,Least Concern,,Least Concern,LC,2.261077307,
+pseudemys_concinna_suwanniensis,Testudines,Emydidae,Pseudemys,Pseudemys_clade,Least Concern,,Least Concern,LC,2.228106935,
+pseudemys_floridana,Testudines,Emydidae,Pseudemys,Pseudemys_clade,Least Concern,,Least Concern,LC,2.252724047,
+pseudemys_gorzugi,Testudines,Emydidae,Pseudemys,Pseudemys_clade,Near Threatened,,Near Threatened,NT,2.127341634,
+pseudemys_nelsoni,Testudines,Emydidae,Pseudemys,Pseudemys_clade,Least Concern,,Least Concern,LC,2.125456013,
+pseudemys_peninsularis,Testudines,Emydidae,Pseudemys,Pseudemys_clade,Least Concern,,Least Concern,LC,2.125456013,
+pseudemys_rubriventris,Testudines,Emydidae,Pseudemys,Pseudemys_clade,Near Threatened,,Near Threatened,NT,2.320907592,
+pseudemys_texana,Testudines,Emydidae,Pseudemys,Pseudemys_clade,Least Concern,,Least Concern,LC,2.12110331,
+pyxis_arachnoides,Testudines,Testudinidae,Pyxis,Pyxis_clade,Critically Endangered,,Critically Endangered,CR,3.591141124,EDGE species
+pyxis_planicauda,Testudines,Testudinidae,Pyxis,Pyxis_clade,Critically Endangered,,Critically Endangered,CR,3.591141124,EDGE species
+rafetus_euphraticus,Testudines,Trionychidae,Rafetus,Rafetus_clade,Endangered,,Endangered,EN,3.814115506,EDGE species
+rafetus_swinhoei,Testudines,Trionychidae,Rafetus,Rafetus_clade,Critically Endangered,,Critically Endangered,CR,4.306077807,EDGE species
+rheodytes_leukops,Testudines,Chelidae,Rheodytes,Rheodytes_clade,Vulnerable,,Vulnerable,VU,3.278976179,EDGE species
+rhinemys_rufipes,Testudines,Chelidae,Rhinemys,Rhinemys_clade,Near Threatened,,Near Threatened,NT,3.163992281,EDGE species
+rhinoclemmys_annulata,Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_clade,Near Threatened,,Near Threatened,NT,2.794736568,
+rhinoclemmys_areolata,Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_clade,Near Threatened,,Near Threatened,NT,2.49078534,
+rhinoclemmys_diademata,Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.561568055,
+rhinoclemmys_funerea,Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_clade,Near Threatened,,Near Threatened,NT,2.641573835,
+rhinoclemmys_melanosterna,Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.585094571,
+rhinoclemmys_nasuta,Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_clade,Near Threatened,,Near Threatened,NT,2.49078534,
+rhinoclemmys_pulcherrima,Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.788498243,
+rhinoclemmys_punctularia,Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.492946484,
+rhinoclemmys_rubida,Testudines,Geoemydidae,Rhinoclemmys,Rhinoclemmys_clade,Near Threatened,,Near Threatened,NT,2.920372206,
+sacalia_bealei,Testudines,Geoemydidae,Sacalia,Sacalia_clade,Endangered,,Endangered,EN,3.40670743,EDGE species
+sacalia_quadriocellata,Testudines,Geoemydidae,Sacalia,Sacalia_clade,Critically Endangered,,Critically Endangered,CR,3.634752852,EDGE species
+siebenrockiella_crassicollis,Testudines,Geoemydidae,Siebenrockiella,Siebenrockiella_clade,Endangered,,Endangered,EN,4.13844936,EDGE species
+siebenrockiella_leytensis,Testudines,Geoemydidae,Siebenrockiella,Siebenrockiella_clade,Critically Endangered,,Critically Endangered,CR,4.366494782,EDGE species
+staurotypus_salvinii,Testudines,Kinosternidae,Staurotypus,Staurotypus_clade,Near Threatened,,Near Threatened,NT,3.350564205,EDGE species
+staurotypus_triporcatus,Testudines,Kinosternidae,Staurotypus,Staurotypus_clade,Near Threatened,,Near Threatened,NT,3.350564205,EDGE species
+sternotherus_carinatus,Testudines,Kinosternidae,Sternotherus,Sternotherus_clade,Least Concern,,Least Concern,LC,3.186544775,EDGE species
+sternotherus_depressus,Testudines,Kinosternidae,Sternotherus,Sternotherus_clade,Critically Endangered,,Critically Endangered,CR,3.860554355,EDGE species
+sternotherus_minor,Testudines,Kinosternidae,Sternotherus,Sternotherus_clade,Least Concern,,Least Concern,LC,3.168793468,EDGE species
+sternotherus_odoratus,Testudines,Kinosternidae,Sternotherus,Sternotherus_clade,Least Concern,,Least Concern,LC,3.186544775,EDGE species
+stigmochelys_pardalis,Testudines,Testudinidae,Stigmochelys,Stigmochelys_clade,Least Concern,,Least Concern,LC,3.364999888,EDGE species
+terrapene_carolina,Testudines,Emydidae,Terrapene,Terrapene_clade,Vulnerable,,Vulnerable,VU,2.567766781,
+terrapene_coahuila,Testudines,Emydidae,Terrapene,Terrapene_clade,Endangered,,Endangered,EN,2.805267066,
+terrapene_mexicana,Testudines,Emydidae,Terrapene,Terrapene_clade,Not Evaluated,Least Concern,Least Concern,LC,2.341551602,
+terrapene_ornata,Testudines,Emydidae,Terrapene,Terrapene_clade,Near Threatened,,Near Threatened,NT,2.409661706,
+terrapene_yucatana,Testudines,Emydidae,Terrapene,Terrapene_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.494499937,
+testudo_graeca,Testudines,Testudinidae,Testudo,Testudo_clade,Vulnerable,,Vulnerable,VU,3.227444704,EDGE species
+testudo_hermanni,Testudines,Testudinidae,Testudo,Testudo_clade,Near Threatened,,Near Threatened,NT,3.390003811,EDGE species
+testudo_horsfieldi,Testudines,Testudinidae,Testudo,Testudo_clade,Vulnerable,,Vulnerable,VU,3.390804534,EDGE species
+testudo_kleinmanni,Testudines,Testudinidae,Testudo,Testudo_clade,Critically Endangered,,Critically Endangered,CR,3.766245323,EDGE species
+testudo_marginata,Testudines,Testudinidae,Testudo,Testudo_clade,Least Concern,,Least Concern,LC,3.074484436,EDGE species
+trachemys_adiutrix,Testudines,Emydidae,Trachemys,Trachemys_clade,Endangered,,Endangered,EN,2.804510042,
+trachemys_callirostris,Testudines,Emydidae,Trachemys,Trachemys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,2.306960983,
+trachemys_decorata,Testudines,Emydidae,Trachemys,Trachemys_clade,Vulnerable,,Vulnerable,VU,2.048444328,
+trachemys_decussata,Testudines,Emydidae,Trachemys,Trachemys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.16314707,
+trachemys_dorbigni,Testudines,Emydidae,Trachemys,Trachemys_clade,Not Evaluated,Least Concern,Least Concern,LC,2.242111643,
+trachemys_gaigeae,Testudines,Emydidae,Trachemys,Trachemys_clade,Vulnerable,,Vulnerable,VU,2.655881917,
+trachemys_medemi,Testudines,Emydidae,Trachemys,Trachemys_clade,Not Evaluated,Vulnerable,Vulnerable,VU,1.974546389,
+trachemys_ornata,Testudines,Emydidae,Trachemys,Trachemys_clade,Vulnerable,,Vulnerable,VU,2.23176864,
+trachemys_scripta,Testudines,Emydidae,Trachemys,Trachemys_clade,Least Concern,,Least Concern,LC,2.03067774,
+trachemys_scripta_elegans,Testudines,Emydidae,Trachemys,Trachemys_clade,Least Concern,Least Concern,Least Concern,LC,2.340794578,
+trachemys_scripta_scripta,Testudines,Emydidae,Trachemys,Trachemys_clade,Least Concern,Least Concern,Least Concern,LC,2.698539423,
+trachemys_stejnegeri,Testudines,Emydidae,Trachemys,Trachemys_clade,Near Threatened,,Near Threatened,NT,1.912163143,
+trachemys_taylori,Testudines,Emydidae,Trachemys,Trachemys_clade,Endangered,,Endangered,EN,2.705827106,
+trachemys_terrapen,Testudines,Emydidae,Trachemys,Trachemys_clade,Vulnerable,,Vulnerable,VU,2.099299311,
+trachemys_yaquia,Testudines,Emydidae,Trachemys,Trachemys_clade,Vulnerable,,Vulnerable,VU,2.022964236,
+trionyx_triunguis,Testudines,Trionychidae,Trionyx,Trionyx_clade,Vulnerable,,Vulnerable,VU,3.98533416,EDGE species
+vijayachelys_silvatica,Testudines,Geoemydidae,Vijayachelys,Vijayachelys_clade,Endangered,,Endangered,EN,3.873224261,EDGE species
