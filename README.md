@@ -3,6 +3,15 @@ Thesis is for completion of the Evolutionary Biology Program at San Diego State 
 
 The data and code provided herein do not include specific geographic occurrence records for the turtles (e.g. presence-absence matrices, individual taxa range maps) out of an abundance of caution for conservation.
 
+#Important Links
+
+Alongside the summary files, an interactive R shiny visualizer was created and can be found at: https://dillon-jones.shinyapps.io/Phyloregion_Visualizer_turt/
+
+This thesis heavily compares the phyloregions to the Taxonomic regions created by Ennen et al. 2020. See their publication here: https://doi.org/10.1016/j.biocon.2019.108323
+and their Region visualization here: https://tnaci-fin.tnaqua.org/arcgis/apps/View/index.html?appid=9addfcaf1e1043df85d6498d7d105540
+
+We also compare heavily to the ecoregions provided by the World Wildlife Fund. An ArcGIS app with those regions can be found here: https://www.arcgis.com/apps/View/index.html?appid=d60ec415febb4874ac5e0960a6a2e448
+
 # Table of Contents
 ## S1 - Taxonomy-Constraints-TACT.csv 
 Description: A .csv file of taxonomic constraints for feeding into TACT. Columns indicate the following taxonomic ranks: order, suborder, superfamily, superfamily_clade, family, family_clade, genus, clade, taxon. Columns with the _clade suffix were used to constrain taxa within a particular rank.
