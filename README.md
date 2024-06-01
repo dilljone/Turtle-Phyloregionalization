@@ -2,7 +2,7 @@
 Created by Dillon Jones. Contact: dilljone96@gmail.com
 
 !["Results. The entire world is divided into various regions. Colors are unique for each region, and the hues correspond to various realms"](https://github.com/dilljone/Turtle-Phyloregionalization/blob/main/entire_world_no-label.jpg)
-Masters Thesis for completion of the Evolutionary Biology Program at San Diego State University under the advisorship of Dr. Tod Reeder
+Masters Thesis for completion of the Evolutionary Biology Program at San Diego State University
 
 The data and code provided herein do not include specific geographic occurrence records for the turtles (e.g. presence-absence matrices, individual taxa range maps) out of an abundance of caution for conservation.
 
